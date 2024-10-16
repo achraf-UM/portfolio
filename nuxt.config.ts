@@ -16,7 +16,7 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxt/icon'],
+  modules: ['@nuxt/icon', '@nuxt/ui'],
   icon: {
     serverBundle: {
       collections: ['uil', 'mdi'] // <!--- this

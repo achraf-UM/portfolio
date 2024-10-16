@@ -17,8 +17,10 @@
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@iconify-json/f7": "^1.2.1",
     "@iconify-json/line-md": "^1.2.2",
     "@iconify-json/material-symbols": "^1.2.4",
+    "@iconify-json/uil": "^1.2.1",
     "@vicons/material": "^0.12.0",
     "@vicons/utils": "^0.1.4",
     "autoprefixer": "^10.4.20",

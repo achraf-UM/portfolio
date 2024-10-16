@@ -1,6 +1,14 @@
 <template>
         <div class="text-4xl sm:text-5xl md:text-7xl lg:text-9xl">ACHECHE Achraf</div>
         <div class="textdisplay text-3xl sm:text-4xl md:text-6xl lg:text-8xl h-[10vh]">{{ displayedText }}</div>
+        <div class="flex flex-row mt-[3vh]">
+          <Icon name="uil:github" class="w-[3vw] h-[4vh]" />
+          <Icon name="uil:facebook" class="w-[3vw] h-[4vh]" />
+          <Icon name="uil:twitter" class="w-[3vw] h-[4vh]" />
+          <Icon name="uil:linkedin" class="w-[3vw] h-[4vh]" />
+          <Icon name="uil:youtube" class="w-[3vw] h-[4vh]" />
+        </div>
+        
 </template>
 
 

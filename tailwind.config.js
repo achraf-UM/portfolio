@@ -21,6 +21,11 @@ export default {
       }
     }
   },
+  default: {
+    color: '#FFFFFF',
+    size: 'md',
+    animation: 'carousel',
+  },
   plugins: [],
 }
 
